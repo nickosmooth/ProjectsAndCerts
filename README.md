@@ -1,5 +1,9 @@
 # Hi, I'm Nicko!
 
+## Home Lab and Active Directory Projects
+
+- [Part One](https://medium.com/@nicko.kabongo03/home-lab-active-directory-part-1-db91910e6f70)
+- [Part Two](https://medium.com/@nicko.kabongo03/home-lab-active-directory-part-2-a7d1a5551a13)
 ## 🏅 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/f9b57031-eeeb-460f-aaec-5fc51696fa38)
